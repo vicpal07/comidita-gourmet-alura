@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabeçalho {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+
+}
+
+.cabeçalho-lista-item{
+    margin: 0 16px;
+    font-size: 24px;
+
+}
+
+.imagen-de-comida{
+    width: 25%;
+
+}
+
+.comidita{
+    background-image: linear-gradient(black, rgb(150, 14, 14));
+    color: antiquewhite;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+
+}
+
+.comidita-div-conteudo{
+    width: 70%;
+
+}
+
+.comidita-titulo{;
+}
